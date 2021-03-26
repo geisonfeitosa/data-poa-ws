@@ -54,6 +54,7 @@ mantendo assim a confiabilidade dos dados.
 - Java: 11
 - Spring Boot: 2.1.0.RELEASE
 - Hibernate-types-52: 4.6.0
+- Postgresql: 10.8-1
 
 ## Como instalar
 
